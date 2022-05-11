@@ -10,10 +10,12 @@
 设备及功能正常：网卡、无线、触控板、摄像头、读卡器、CPU睿频、合盖睡眠、唤醒、亮度调整、音量调整
 
 我的配置：
-CPU  i5-3320M 
-RAM  4G DDR3L 1600MHz
-存储  120G SSD
-网卡  Intel N2230(不用刷BIOS直接上)
+| CPU | i5-3320M |
+| RAM | DDR3L 1600MHz 4G |
+| 存储 | 128G SSD |
+| 网卡 | Intel N2230 |  
+
+PS：网卡本来就在BIOS的白名单里，不用刷BIOS
 
 网卡：
 ![WIFI](https://user-images.githubusercontent.com/95116110/167303262-f62e0d32-bc7f-4b8c-bfef-a4e72f20e50a.png)
