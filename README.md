@@ -10,19 +10,11 @@
 设备及功能正常：网卡、无线、触控板、摄像头、读卡器、CPU睿频、合盖睡眠、唤醒、亮度调整、音量调整
 
 ### 我的配置：
+| ---- | ---- |
 | CPU | i5-3320M |
 | RAM | DDR3L 1600MHz 4G |
 | 存储 | 128G SSD |
 | 网卡 | Intel N2230 |  
-
-### 开启前 vs 开启后 
- 
-|  | 开启前 | 开启后 |
-| ---- | ---- | ---- |
-|头像| ![](./doc/avatar2.png) |![](./doc/avatar1.png)  |
-|clone |![](./doc/clone-before.png) |![](./doc/clone.png)    |  
-|zip 下载 |![](./doc/download-before.png) |![](./doc/download.png)秒下的，实在截不到速度的图    |  
-
 
 PS：网卡本来就在BIOS的白名单里，不用刷BIOS
 
