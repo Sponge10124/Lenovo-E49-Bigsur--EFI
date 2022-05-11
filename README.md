@@ -1,4 +1,6 @@
 # Lenovo-E49-Bigsur--EFI
+### 一定要按照我的设置来设置!!!
+### If you want to use this EFI, You must follow my settings!!!
 
  Lenovo-E49-BigSur-EFI-with-OC0.6.2
  
