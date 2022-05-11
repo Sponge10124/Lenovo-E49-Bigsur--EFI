@@ -18,6 +18,35 @@
 
 PS：网卡本来就在BIOS的白名单里，不用刷BIOS
 
+### BIOS选项
+
+Config:
+| 选项 | 状态 |
+| ---- | ---- |
+|Network --> Wake On LAN | Disabled |
+|Display --> NVIDIA Optimus | Disabled |
+|Serial ATA --> SATA Controller Mode Option | AHCI |
+| CPU | All Enabled (全部为Enabled) |
+
+Security:
+| 选项 | 状态 |
+| ---- | ---- |
+| Virtualization | All Enabled (全部为Enabled) |
+| Secure Boot | Disabled |
+
+
+| I/O Port Access | 状态 |
+| ---- | ---- |
+| Bluetooth | Disabled |
+| eSATA Port | Disabled |
+| Fingerprint Reader | Disabled |
+
+| Anti-Theft | 状态 |
+| ---- | ---- |
+| Current Setting | Disabled |
+| Computrace --> Current Setting | Disabled |
+
+
 网卡：
 ![WIFI](https://user-images.githubusercontent.com/95116110/167303262-f62e0d32-bc7f-4b8c-bfef-a4e72f20e50a.png)
 
