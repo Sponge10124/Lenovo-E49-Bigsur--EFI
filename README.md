@@ -1,13 +1,15 @@
-# Lenovo-E49-Bigsur--EFI
-### 一定要按照我的设置来设置!!!
-### If you want to use this EFI, You must follow my settings!!!
+# Lenovo-E49-Bigsur--EFI--OC-0.6.2
 
- Lenovo-E49-BigSur-EFI-with-OC0.6.2
- 
- 系统是Bigsur 11.2 黑果小兵上的Bigsur 11.2
- 
- 截图：
- ![总览](https://user-images.githubusercontent.com/95116110/167303238-ef21def1-3f5f-45c7-ad5c-7f13b780d258.png)
+### 一定要按照我的设置来设置!!!
+### 只能使用OCAT配置Config.plist文件!!!
+
+### If you want to use this EFI, You must follow my settings!!!
+### You can only use the OCAT to configure this Config.plist!!!
+
+系统是Bigsur 11.2 黑果小兵上的Bigsur 11.2
+
+截图：
+![总览](https://user-images.githubusercontent.com/95116110/167303238-ef21def1-3f5f-45c7-ad5c-7f13b780d258.png)
 
 设备及功能正常：网卡、无线、触控板、摄像头、读卡器、CPU睿频、合盖睡眠、唤醒、亮度调整、音量调整
 
@@ -36,7 +38,6 @@ Security:
 | Virtualization | All Enabled (全部为Enabled) |
 | Secure Boot | Disabled |
 
-
 | I/O Port Access | 状态 |
 | ---- | ---- |
 | Bluetooth | Disabled |
@@ -47,6 +48,12 @@ Security:
 | ---- | ---- |
 | Current Setting | Disabled |
 | Computrace --> Current Setting | Disabled |
+
+|Startup| 状态 |
+| ---- | ---- |
+| UEFI/Legacy Boot | UEFI Only |
+| CSM Support | Yes |
+
 
 
 ### 系统概览：
