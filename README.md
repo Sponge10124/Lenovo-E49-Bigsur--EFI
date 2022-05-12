@@ -7,7 +7,9 @@
 ### You can only use the OCAT to configure this Config.plist!!!
 
 系统是 Bigsur 11.2 20D64
+
 百度网盘链接：https://pan.baidu.com/s/1ngyinnK-nE4Snf2d8AIaBQ 提取码：jkw2
+
 嫌慢的私信我 QQ：1174125766 备注Github黑苹果来的
 
 截图：
