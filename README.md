@@ -6,7 +6,9 @@
 ### If you want to use this EFI, You must follow my settings!!!
 ### You can only use the OCAT to configure this Config.plist!!!
 
-系统是Bigsur 11.2 黑果小兵上的Bigsur 11.2
+系统是 Bigsur 11.2 20D64
+百度网盘链接：https://pan.baidu.com/s/1ngyinnK-nE4Snf2d8AIaBQ 提取码：jkw2
+嫌慢的私信我 QQ：1174125766 备注Github黑苹果来的
 
 截图：
 ![总览](https://user-images.githubusercontent.com/95116110/167303238-ef21def1-3f5f-45c7-ad5c-7f13b780d258.png)
