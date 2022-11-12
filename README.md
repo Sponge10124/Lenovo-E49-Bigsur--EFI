@@ -1,4 +1,4 @@
-# Lenovo-E49-Bigsur--EFI--OC-0.6.2
+# Lenovo-E49-Bigsur--EFI--OC-0.8.2
 
 ### 一定要按照我的设置来设置!!!
 ### 只能使用OCAT配置Config.plist文件!!!
