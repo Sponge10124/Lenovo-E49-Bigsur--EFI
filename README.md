@@ -1,7 +1,11 @@
 # Lenovo-E49-Bigsur--EFI--OC-0.8.2
 
+### 一定要从Release中下载!!!
+### 一定要从Release中下载!!!
+### 一定要从Release中下载!!!
 ### 一定要按照我的设置来设置!!!
 ### 只能使用OCAT配置Config.plist文件!!!
+
 
 ### If you want to use this EFI, You must follow my settings!!!
 ### You can only use the OCAT to configure this Config.plist!!!
